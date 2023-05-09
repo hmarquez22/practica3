@@ -8,7 +8,7 @@ El mètode initTui() (que heu d'implementar) preguntarà primer a l'usuari quant
 
 Heu d'usar la classe Scanner i System.in de manera similar als exemples explicats abans en la secció de conceptes previs.
 
-El resultat (a banda d'imprimir la llista dels estudiants) ha de ser el següent. Amb això, crearem l'array d'estudiants amb les dades introduïdes des del teclat:
+El resultat (a banda d'imprimir la llista dels estudiants) ha de ser el següent. Amb això, crearem l'array d'estudiants amb les dades introduïdes des del teclat: 
 
 Number of students: 2
 Number of students is: 2
