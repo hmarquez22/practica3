@@ -1,0 +1,34 @@
+Exercici 0 (40% de la nota)
+
+Teniu el codi de partida a la carpeta tui_lliurament. Heu de substituir el mètode init() pel mètode initTui(). Des del mètode psvm cridarem initTui() enlloc de cridar init().
+
+En aquest cas he eliminat la classe Arrays per fer el codi més simple. Per tant, el codi que trobareu a la carpeta tui_lliurament només imprimirà la llista desordenada d'estudiants, tal qual està a l'array d'Student. No imprimirà les llistes ordenades dels estudiants tal com feia a l'anterior UF (i tal com teniu a la carpeta students).
+
+El mètode initTui() (que heu d'implementar) preguntarà primer a l'usuari quants estudiants vol afegir a l'array d'estudiants, i després preguntarà a l'usuari el nom, l'edat i el número d'assignatures matriculades per a cadascun dels estudiants.
+
+Heu d'usar la classe Scanner i System.in de manera similar als exemples explicats abans en la secció de conceptes previs.
+
+El resultat (a banda d'imprimir la llista dels estudiants) ha de ser el següent. Amb això, crearem l'array d'estudiants amb les dades introduïdes des del teclat:
+
+Number of students: 2
+Number of students is: 2
+---- Student number 1 ----
+Enter name: Joan
+Enter age: 22
+Enter nº enrolled subjects: 4
+---- Student number 2 ----
+Enter name: Laura
+Enter age: 29
+Enter nº enrolled subjects: 6
+
+
+
+-- SOLUCIÓ DE L'EXERCICI --
+
+Package: practica3
+
+Dins del package practica 3 tenim 4 classes java:
+
+Main, Student i Tui
+
+Codi que hem de introduir a cada clase per a que el programa executi el que demana l'enunciat:
