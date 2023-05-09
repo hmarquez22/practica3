@@ -306,7 +306,7 @@ public class App2 {
 
 El programa descarrega el contingut d'un URL usant urlReader, el desa en un fitxer 
 anomenat testfile.html usant saveToFile, i després llegeix el contingut del fitxer
-utilitzant readFromFile i l'imprimeix per pantalla.
+utilitzant readFromFile i l'imprimeix per pantalla. 
 
 
 
